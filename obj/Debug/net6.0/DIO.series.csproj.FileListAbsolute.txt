@@ -1,0 +1,15 @@
+C:\Users\unimed\Desktop\workspace\dio-dotnet\DIO.series\bin\Debug\net6.0\DIO.series.exe
+C:\Users\unimed\Desktop\workspace\dio-dotnet\DIO.series\bin\Debug\net6.0\DIO.series.deps.json
+C:\Users\unimed\Desktop\workspace\dio-dotnet\DIO.series\bin\Debug\net6.0\DIO.series.runtimeconfig.json
+C:\Users\unimed\Desktop\workspace\dio-dotnet\DIO.series\bin\Debug\net6.0\DIO.series.dll
+C:\Users\unimed\Desktop\workspace\dio-dotnet\DIO.series\bin\Debug\net6.0\DIO.series.pdb
+C:\Users\unimed\Desktop\workspace\dio-dotnet\DIO.series\obj\Debug\net6.0\DIO.series.csproj.AssemblyReference.cache
+C:\Users\unimed\Desktop\workspace\dio-dotnet\DIO.series\obj\Debug\net6.0\DIO.series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unimed\Desktop\workspace\dio-dotnet\DIO.series\obj\Debug\net6.0\DIO.series.AssemblyInfoInputs.cache
+C:\Users\unimed\Desktop\workspace\dio-dotnet\DIO.series\obj\Debug\net6.0\DIO.series.AssemblyInfo.cs
+C:\Users\unimed\Desktop\workspace\dio-dotnet\DIO.series\obj\Debug\net6.0\DIO.series.csproj.CoreCompileInputs.cache
+C:\Users\unimed\Desktop\workspace\dio-dotnet\DIO.series\obj\Debug\net6.0\DIO.series.dll
+C:\Users\unimed\Desktop\workspace\dio-dotnet\DIO.series\obj\Debug\net6.0\refint\DIO.series.dll
+C:\Users\unimed\Desktop\workspace\dio-dotnet\DIO.series\obj\Debug\net6.0\DIO.series.pdb
+C:\Users\unimed\Desktop\workspace\dio-dotnet\DIO.series\obj\Debug\net6.0\DIO.series.genruntimeconfig.cache
+C:\Users\unimed\Desktop\workspace\dio-dotnet\DIO.series\obj\Debug\net6.0\ref\DIO.series.dll
